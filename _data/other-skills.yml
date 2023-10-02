@@ -1,19 +1,19 @@
 - skill: Microsoft Excel
-  percentage: 90
+  proficiency: Proficient
   color: primary
 
 - skill: ArcGIS
-  percentage: 70
+  proficiency: Beginner
   color: success
 
 - skill: Ableton Live
-  percentage: 70
+  proficiency: Experienced
   color: danger
 
 - skill: Mozilla Hubs
-  percentage: 90
+  proficiency: Experienced
   color: secondary
 
 - skill: Agisoft Metashape
-  percentage: 70
+  proficiency: Beginner
   color: warning

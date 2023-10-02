@@ -1,43 +1,44 @@
 - skill: Python
-  percentage: 94
+  proficiency: Proficient
   color: primary
 
 - skill: Java
-  percentage: 92
+  proficiency: Proficient
   color: info
 
 - skill: C/C#
-  percentage: 84
+  proficiency: Proficient
   color: success
 
 - skill: SQL
+  proficiency: Beginner
   color: warning
 
 - skill: R
-  percentage: 63
+  proficiency: Experienced
   color: secondary
 
 - skill: TypeScript
-  percentage: 39
+  proficiency: Beginner
   color: danger
 
 - skill: Javascript/HTML/CSS
-  percentage: 82
+  proficiency: Experienced
   color: primary
 
 - skill: Ruby on Rails
-  percentage: 87
+  proficiency: Experienced
   color: info
 
 - skill: AWS
-  percentage: 22
+  proficiency: Beginner
   color: success
 
 - skill: Elixir/Phoenix
-  percentage: 76
+  proficiency: Experienced
   color: warning
 
 - skill: NLP (sentiment analysis algorithms)
-  percentage: 62
+  proficiency: Experienced
   color: secondary
 

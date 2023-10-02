@@ -1,23 +1,23 @@
 - skill: Houdini
-  percentage: 90
+  proficiency: Experienced
   color: success
 
 - skill: Unity3D
-  percentage: 70
+  proficiency: Experienced
   color: warning
 
 - skill: Blender
-  percentage: 90
+  proficiency: Proficient
   color: info
 
 - skill: Substance Painter
-  percentage: 70
+  proficiency: Experienced
   color: primary
 
 - skill: Unreal Engine
-  percentage: 30
+  proficiency: Beginner
   color: info
 
 - skill: Marvelous Designer
-  percentage: 70
+  proficiency: Experienced
   color: info
