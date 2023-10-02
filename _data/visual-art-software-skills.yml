@@ -1,23 +1,25 @@
+- skill: Blender
+  proficiency: Proficient
+  color: success
+
 - skill: Houdini
   proficiency: Experienced
-  color: success
+  color: warning
 
 - skill: Unity3D
   proficiency: Experienced
   color: warning
 
-- skill: Blender
-  proficiency: Proficient
-  color: info
-
 - skill: Substance Painter
   proficiency: Experienced
-  color: primary
+  color: warning
+
+- skill: Marvelous Designer
+  proficiency: Experienced
+  color: warning
 
 - skill: Unreal Engine
   proficiency: Beginner
   color: info
 
-- skill: Marvelous Designer
-  proficiency: Experienced
-  color: info
+

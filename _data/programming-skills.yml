@@ -10,17 +10,9 @@
   proficiency: Proficient
   color: success
 
-- skill: SQL
-  proficiency: Beginner
-  color: info
-
 - skill: R
   proficiency: Experienced
   color: warning
-
-- skill: TypeScript
-  proficiency: Beginner
-  color: info
 
 - skill: Javascript/HTML/CSS
   proficiency: Experienced
@@ -30,10 +22,6 @@
   proficiency: Experienced
   color: warning
 
-- skill: AWS
-  proficiency: Beginner
-  color: info
-
 - skill: Elixir/Phoenix
   proficiency: Experienced
   color: warning
@@ -42,3 +30,14 @@
   proficiency: Experienced
   color: warning
 
+- skill: SQL
+  proficiency: Beginner
+  color: info
+
+- skill: TypeScript
+  proficiency: Beginner
+  color: info
+
+- skill: AWS
+  proficiency: Beginner
+  color: info

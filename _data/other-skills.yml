@@ -2,10 +2,6 @@
   proficiency: Proficient
   color: success
 
-- skill: ArcGIS
-  proficiency: Beginner
-  color: info
-
 - skill: Ableton Live
   proficiency: Experienced
   color: warning
@@ -13,6 +9,10 @@
 - skill: Mozilla Hubs
   proficiency: Experienced
   color: warning
+
+- skill: ArcGIS
+  proficiency: Beginner
+  color: info
 
 - skill: Agisoft Metashape
   proficiency: Beginner
