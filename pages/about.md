@@ -15,7 +15,7 @@ My true strength lies in my resourcefulness and ability to solve unusual problem
 
 Currently, I am on a professional development gap year as my program does not offer my major for students graduating prior to 2025. My goal over the next year is to hone my skills the best I can, whether that be through passion projects or professional experience.
 
-<div class="row">
+<div>
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Languages" source=site.data.language-skills %}
 {% include about/skills.html title="Adobe Suite" source=site.data.adobe-suite-skills %}
