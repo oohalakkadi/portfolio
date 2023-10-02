@@ -1,0 +1,43 @@
+- skill: Python
+  percentage: 94
+  color: primary
+
+- skill: Java
+  percentage: 92
+  color: info
+
+- skill: C/C#
+  percentage: 84
+  color: success
+
+- skill: SQL
+  color: warning
+
+- skill: R
+  percentage: 63
+  color: secondary
+
+- skill: TypeScript
+  percentage: 39
+  color: danger
+
+- skill: Javascript/HTML/CSS
+  percentage: 82
+  color: primary
+
+- skill: Ruby on Rails
+  percentage: 87
+  color: info
+
+- skill: AWS
+  percentage: 22
+  color: success
+
+- skill: Elixir/Phoenix
+  percentage: 76
+  color: warning
+
+- skill: NLP (sentiment analysis algorithms)
+  percentage: 62
+  color: secondary
+

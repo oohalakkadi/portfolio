@@ -1,0 +1,19 @@
+- skill: Microsoft Excel
+  percentage: 90
+  color: primary
+
+- skill: ArcGIS
+  percentage: 70
+  color: success
+
+- skill: Ableton Live
+  percentage: 70
+  color: danger
+
+- skill: Mozilla Hubs
+  percentage: 90
+  color: secondary
+
+- skill: Agisoft Metashape
+  percentage: 70
+  color: warning

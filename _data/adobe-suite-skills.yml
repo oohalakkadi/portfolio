@@ -1,0 +1,15 @@
+- skill: Adobe Illustrator
+  percentage: 93
+  color: info
+
+- skill: InDesign
+  percentage: 95
+  color: success
+
+- skill: Photoshop
+  percentage: 90
+  color: primary
+
+- skill: AfterEffects
+  percentage: 70
+  color: warning

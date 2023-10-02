@@ -1,0 +1,15 @@
+- skill: English
+  percentage: 100
+  color: primary
+
+- skill: Telugu
+  percentage: 80
+  color: info
+
+- skill: Mandarin
+  percentage: 60
+  color: success
+
+- skill: Spanish
+  percentage: 60
+  color: warning

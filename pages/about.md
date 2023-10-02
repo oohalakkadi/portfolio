@@ -1,0 +1,27 @@
+---
+layout: page
+title: About
+permalink: /about/
+weight: 3
+---
+
+# **About Me**
+
+Hi I am **{{ site.author.name }}** :wave:,<br>
+I am a fourth-year Computation and Design dual-degree student at Duke Kunshan University in Kunshan, China and Duke University in Durham, NC. While I specialize in 3D object design and VR/AR development, I have experience in blending a variety of practices to bring my projects to life, including but not limited to AI/ML/NLP, web development, and UI/UX.
+
+My true strength lies in my resourcefulness and ability to solve unusual problems with out-of-the-box thinking. I do not back down from a challenge, and take every opportunity to understand something differently for the first time.
+
+Currently, I am on a professional development gap year as my program does not offer my major for students graduating prior to 2025. My goal over the next year is to hone my skills the best I can, whether that be through passion projects or professional experience.
+
+<div class="row">
+{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Languages" source=site.data.language-skills %}
+{% include about/skills.html title="Adobe Suite" source=site.data.adobe-suite-skills %}
+{% include about/skills.html title="Visual Art Software" source=site.data.visual-art-software-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+</div>
+
+<div class="row">
+{% include about/timeline.html %}
+</div>

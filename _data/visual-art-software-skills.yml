@@ -1,0 +1,23 @@
+- skill: Houdini
+  percentage: 90
+  color: success
+
+- skill: Unity3D
+  percentage: 70
+  color: warning
+
+- skill: Blender
+  percentage: 90
+  color: info
+
+- skill: Substance Painter
+  percentage: 70
+  color: primary
+
+- skill: Unreal Engine
+  percentage: 30
+  color: info
+
+- skill: Marvelous Designer
+  percentage: 70
+  color: info

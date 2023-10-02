@@ -1,0 +1,90 @@
+### Site Settings ###
+title               : Ooha Reddy's Portfolio
+description         : >-
+                      C.
+baseurl             : "/portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : oohalakkadi/portfolio    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Ooha Reddy
+  image             : https://lh3.googleusercontent.com/pw/ADCreHev5eg3SX7KA1HmfDKlRR3Ydx5JjMs5kGwDWOU5Ot9K0mboVOaxp0APNKyhMOUcmsXrJ2VtTGAfmgTagygd9MCN9A61w6ZwUvAkyP5oxkalWiP0fehyhHYHxq9sznGANetor93jyHL-JZ7TmcevpTAUsxAVEx0v-qL4ECsI8m82Spda6S1H4bC-mwHYUxLqJmw3i-PxDfqlQVVoIBn4n6WntIXNEC1P8wTSfpS5FCEYhOKV6NtPZf2ZXx1OmWvQkIWEOgTK6Yq8_tflXod-brv75OCF414uCK_sfdJS-YR_XuoiFBpk19mJZJdpk960gEuZqi4_qOmV2iHMsHLW5WBelRMru_u1MM9xAcYwhLxIZTTljrsWIAG5MYsgYCrQF7ws4GdWRRc6RbumGllD_4J-zdqioFIEq50fPhHu8qElEY9zMwOmsAQPUXp5Wctj9w2fOUT7es-eEuvvZEugdRpODmNmUg8JgDO2uDKoYc4vL1gTQ10EOh3vgCcEDduMVdCU7xiTKN--W5BZZgHAt2fDoxN69lRtl0BC1o1tLufAN0jcCVxPf8RyBm2OerPsXfOxpQNSVQzC5VfHRV8hVwQARTUEdovck1Dgola1co2Qd3PMcGYs90LjrPw2NuQzefEq13T440m_UBxoxfdUDFen9cfvQ58mfRABywM_eGAYQwyIgomfnMp1ZOOVgpRuD54tdDUhSZoJ2Su9wLijpFFDYufCe7l10YyBxlsUlk5lAMa802G6B3_6wbwe4lU4WzwL1Ezs4uzscM8BPsYwkHsgGYo3hs2pBAdg7BxC5sS1uxoJByQHKxSS2pmahM95esjA_1cJQE4YDjgqG3z9LTmoxYscrQNrWAva1G36aPYGM3fLKwLipg3E6ePIbZBTsTfDAHTiOLo82ZrEGaAWS9s=w1290-h1720-s-no?authuser=0
+# behance           : oohalakkadi
+# dribbble          : your_username
+  email             : ooha.reddy@duke.edu
+  facebook          : ooha.reddy.355
+  github            : oohalakkadi
+# gitlab            : your_username
+  instagram         : oohalakkadi
+# kaggle            : your_username
+  linkedin          : oohalakkadi
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+#disqus:
+  #shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                               # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
