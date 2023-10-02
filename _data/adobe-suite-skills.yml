@@ -1,6 +1,6 @@
 - skill: Adobe Illustrator
   proficiency: Proficient
-  color: info
+  color: success
 
 - skill: InDesign
   proficiency: Proficient
@@ -8,8 +8,8 @@
 
 - skill: Photoshop
   proficiency: Proficient
-  color: primary
+  color: success
 
 - skill: AfterEffects
-  proficiency: Some experience
+  proficiency: Experienced
   color: warning

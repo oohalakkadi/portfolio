@@ -1,19 +1,19 @@
 - skill: Microsoft Excel
   proficiency: Proficient
-  color: primary
+  color: success
 
 - skill: ArcGIS
   proficiency: Beginner
-  color: success
+  color: info
 
 - skill: Ableton Live
   proficiency: Experienced
-  color: danger
+  color: warning
 
 - skill: Mozilla Hubs
   proficiency: Experienced
-  color: secondary
+  color: warning
 
 - skill: Agisoft Metashape
   proficiency: Beginner
-  color: warning
+  color: info

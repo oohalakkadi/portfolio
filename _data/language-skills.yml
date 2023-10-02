@@ -1,15 +1,15 @@
 - skill: English
   proficiency: Full fluency
-  color: primary
+  color: danger
 
 - skill: Telugu
   proficiency: Spoken fluency
-  color: info
+  color: primary
 
 - skill: Mandarin
   proficiency: Intermediate
-  color: success
+  color: secondary
 
 - skill: Spanish
   proficiency: Intermediate
-  color: warning
+  color: secondary

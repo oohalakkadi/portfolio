@@ -1,10 +1,10 @@
 - skill: Python
   proficiency: Proficient
-  color: primary
+  color: success
 
 - skill: Java
   proficiency: Proficient
-  color: info
+  color: success
 
 - skill: C/C#
   proficiency: Proficient
@@ -12,27 +12,27 @@
 
 - skill: SQL
   proficiency: Beginner
-  color: warning
+  color: info
 
 - skill: R
   proficiency: Experienced
-  color: secondary
+  color: warning
 
 - skill: TypeScript
   proficiency: Beginner
-  color: danger
+  color: info
 
 - skill: Javascript/HTML/CSS
   proficiency: Experienced
-  color: primary
+  color: warning
 
 - skill: Ruby on Rails
   proficiency: Experienced
-  color: info
+  color: warning
 
 - skill: AWS
   proficiency: Beginner
-  color: success
+  color: info
 
 - skill: Elixir/Phoenix
   proficiency: Experienced
@@ -40,5 +40,5 @@
 
 - skill: NLP (sentiment analysis algorithms)
   proficiency: Experienced
-  color: secondary
+  color: warning
 
