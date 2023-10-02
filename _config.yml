@@ -88,3 +88,6 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+include:
+  - assets/css/style.scss

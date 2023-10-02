@@ -15,7 +15,9 @@ weight: 3
 </div>
 
 # **Relevant Coursework**
-
+{% for course in site.data.coursework %}
+  {{ course.name }} <span class="course-badge">{{ course.code }}</span><br>
+{% endfor %}
 
 # **Experience**
 <div class="row">
