@@ -1,23 +1,25 @@
 ---
 ---
 
+
 .coursework-list {
     list-style-type: none; // Removes bullet points
     margin-left: 20px;
+    margin-bottom: 15px;
 
     li {
         font-weight: bold;
         margin-bottom: 5px;
-    }
 
-    .course-badge {
-        display: inline-block;
-        padding: 5px 10px;
-        background-color: #000074; // You can change this color
-        color: white;
-        border-radius: 5px;
-        margin-right: 10px;
-        font-weight: normal;
+        .course-badge {
+            display: inline-block;
+            padding: 5px 10px;
+            background-color: #007BFF; // You can change this color
+            color: white;
+            border-radius: 5px;
+            margin-right: 10px;
+            font-weight: normal;
+        }
     }
 }
 
