@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Ooha Lakkadi Reddy's Portfolio
+title               : Ooha Lakkadi Reddy
 description         : >-
                       C.
 baseurl             : "/portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -22,7 +22,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Ooha Reddy
+  name              : Ooha Lakkadi sReddy
   image             : https://lh3.googleusercontent.com/pw/ADCreHev5eg3SX7KA1HmfDKlRR3Ydx5JjMs5kGwDWOU5Ot9K0mboVOaxp0APNKyhMOUcmsXrJ2VtTGAfmgTagygd9MCN9A61w6ZwUvAkyP5oxkalWiP0fehyhHYHxq9sznGANetor93jyHL-JZ7TmcevpTAUsxAVEx0v-qL4ECsI8m82Spda6S1H4bC-mwHYUxLqJmw3i-PxDfqlQVVoIBn4n6WntIXNEC1P8wTSfpS5FCEYhOKV6NtPZf2ZXx1OmWvQkIWEOgTK6Yq8_tflXod-brv75OCF414uCK_sfdJS-YR_XuoiFBpk19mJZJdpk960gEuZqi4_qOmV2iHMsHLW5WBelRMru_u1MM9xAcYwhLxIZTTljrsWIAG5MYsgYCrQF7ws4GdWRRc6RbumGllD_4J-zdqioFIEq50fPhHu8qElEY9zMwOmsAQPUXp5Wctj9w2fOUT7es-eEuvvZEugdRpODmNmUg8JgDO2uDKoYc4vL1gTQ10EOh3vgCcEDduMVdCU7xiTKN--W5BZZgHAt2fDoxN69lRtl0BC1o1tLufAN0jcCVxPf8RyBm2OerPsXfOxpQNSVQzC5VfHRV8hVwQARTUEdovck1Dgola1co2Qd3PMcGYs90LjrPw2NuQzefEq13T440m_UBxoxfdUDFen9cfvQ58mfRABywM_eGAYQwyIgomfnMp1ZOOVgpRuD54tdDUhSZoJ2Su9wLijpFFDYufCe7l10YyBxlsUlk5lAMa802G6B3_6wbwe4lU4WzwL1Ezs4uzscM8BPsYwkHsgGYo3hs2pBAdg7BxC5sS1uxoJByQHKxSS2pmahM95esjA_1cJQE4YDjgqG3z9LTmoxYscrQNrWAva1G36aPYGM3fLKwLipg3E6ePIbZBTsTfDAHTiOLo82ZrEGaAWS9s=w1290-h1720-s-no?authuser=0
 # behance           : oohalakkadi
 # dribbble          : your_username
