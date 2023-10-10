@@ -1,7 +1,6 @@
 ### Site Settings ###
 title               : Ooha Reddy's Portfolio
-description         : >-
-                      C.
+description         : A collection of my exploratory and professional work in digital media and computation.
 baseurl             : "/portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : oohalakkadi/oohalakkadi.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
