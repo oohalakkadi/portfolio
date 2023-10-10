@@ -6,7 +6,7 @@ weight: 3
 ---
 # **About Me**
 
-Hi, I am **{{ site.author.name }}** :wave:,<br>
+Hi, my name is **{{ site.author.name }}** :wave:,<br>
 
 I am a fourth-year Computation and Design dual-degree student at Duke Kunshan University in Kunshan, China and Duke University in Durham, NC. While I specialize in 3D object design and VR/AR development, I have experience in incorporating a variety of tools to bring my projects to life, including but not limited to AI/ML/NLP, web development, and UI/UX.
 
