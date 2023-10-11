@@ -15,10 +15,8 @@ My true strength lies in my resourcefulness and ability to solve unusual problem
 Currently, I am on a professional development gap year as my program does not offer my major for students graduating prior to 2025. My goal over the next year is to hone my skills the best I can, whether that be through passion projects or professional experience. I hope you enjoy looking through my work!
 
 <div class="bg-info text-white p-3 mb-4">
-    # **Education**
-    - **Duke Kunshan University**, Kunshan, China
-    - **Duke University**, Durham, NC
-    - Dual Degree in Computation and Design with a track in Computer Science
+**Duke University** B.S. Interdisciplinary Studies
+**Duke Kunshan University** B.S. Computation and Design with a track in Computer Science
 </div>
 
 <div>
