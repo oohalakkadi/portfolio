@@ -14,11 +14,6 @@ My true strength lies in my resourcefulness and ability to solve unusual problem
 
 Currently, I am on a professional development gap year as my program does not offer my major for students graduating prior to 2025. My goal over the next year is to hone my skills the best I can, whether that be through passion projects or professional experience. I hope you enjoy looking through my work!
 
-<div class="bg-info text-white p-3 mb-4">
-    <strong>Duke University</strong> B.S. Interdisciplinary Studies<br>
-    <strong>Duke Kunshan University</strong> B.S. Computation and Design with a track in Computer Science
-    
-</div>
 
 <div>
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
