@@ -1,0 +1,102 @@
+/* Animations */
+@keyframes pulse {
+    0% {
+        transform: translate(-50%, -50%) scale(1);
+        opacity: 0.8;
+    }
+    50% {
+        transform: translate(-50%, -50%) scale(1.2);
+        opacity: 0.4;
+    }
+    100% {
+        transform: translate(-50%, -50%) scale(1);
+        opacity: 0.8;
+    }
+}
+
+@keyframes glow {
+    0% {
+        box-shadow: 0 0 5px var(--circuit-blue);
+    }
+    50% {
+        box-shadow: 0 0 15px var(--circuit-blue), 0 0 30px var(--neon-blue);
+    }
+    100% {
+        box-shadow: 0 0 5px var(--circuit-blue);
+    }
+}
+
+@keyframes scrollArrow {
+    0% {
+        opacity: 0;
+        transform: rotate(45deg) translate(-10px, -10px);
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        transform: rotate(45deg) translate(0, 0);
+    }
+}
+
+/* Circuit line animation */
+.circuit-line {
+    position: absolute;
+    background: var(--circuit-blue);
+    opacity: 0;
+    pointer-events: none;
+}
+
+.circuit-node::before {
+    animation: pulse 3s infinite;
+}
+
+.circuit-node::after {
+    animation: pulse 3s infinite 1.5s;
+}
+
+.node-circle {
+    animation: glow 4s infinite;
+}
+
+/* Animated project nodes */
+.project-node::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--circuit-blue), transparent);
+    transform: translateX(-100%);
+    animation: horizontalScan 3s linear infinite;
+}
+
+@keyframes horizontalScan {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+/* Page transitions */
+.fade-in {
+    animation: fadeIn 0.8s forwards;
+}
+
+.fade-out {
+    animation: fadeOut 0.8s forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes fadeOut {
+    from { opacity: 1; }
+    to { opacity: 0; }
+}
